@@ -1,5 +1,13 @@
 ## Hi there 👋 Zig on Espressif microcontroller
 
+zig 的优势
+ 1. 足够底层的语言，适合系统开发和裸机开发，与c无缝衔接
+ 2. 显示分配内存
+ 3. comptime 能在term，type，kind这三个级别使用，极大提升了语言的表达能力
+ 4. 自带构建系统，具有非凡的交叉编译能力
+ 5. 语法简单易学，很容易入门
+
+
 
 <!--
 
